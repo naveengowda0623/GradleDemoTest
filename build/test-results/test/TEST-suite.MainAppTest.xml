@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="suite.MainAppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-08-29T06:24:35" hostname="LAU03004530" time="3.071">
-  <properties/>
-  <testcase name="emulatorTest" classname="suite.MainAppTest" time="3.071"/>
-  <system-out><![CDATA[Number sum result is : 18
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
