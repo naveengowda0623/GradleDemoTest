@@ -2,8 +2,9 @@
 <suite name="TestSuite" verbose="1">
 
 	<test name="Tests">
-		<package>
-			<class name="suite.MainAppTest" />
+		<classes>
+			<!--  <class name="suite.MainAppTest" />-->
+			<class name="suite.PdfComparison" />
 		</classes>
 	</test>
 </suite>
